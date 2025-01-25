@@ -1,0 +1,48 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+*.venv
+*.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor Folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+log/
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+Lib 
